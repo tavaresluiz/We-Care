@@ -9,4 +9,5 @@
 <br>-CSS
 <br>
 <br>
+<img src="https://github.com/tavaresluiz/We-Care-com-Responsivo/blob/main/img/Desktop.png?raw=true"/>
 <img src=""/>
